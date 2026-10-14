@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml – nguồn dữ liệu cho Spinner -->
+<resources>
+    <!-- Danh sách Khoa (NC1) -->
+    <string-array name="khoa">
+        <item>Công nghệ thông tin</item>
+        <item>Quản trị kinh doanh</item>
+    </string-array>
+
+    <!-- Môn học của Khoa CNTT -->
+    <string-array name="mon_hoc_cntt">
+        <item>Lập trình trên các thiết bị di động</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Trí tuệ nhân tạo</item>
+        <item>Kiểm thử phần mềm</item>
+    </string-array>
+
+    <!-- Môn học của Khoa QTKD -->
+    <string-array name="mon_hoc_qtkd">
+        <item>Quản trị học</item>
+        <item>Marketing căn bản</item>
+        <item>Tài chính doanh nghiệp</item>
+    </string-array>
+
+    <!-- Mặc định cũ -->
+    <string-array name="mon_hoc">
+        <item>Lập trình trên các thiết bị di động</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Trí tuệ nhân tạo</item>
+        <item>Kiểm thử phần mềm</item>
+    </string-array>
+</resources>
